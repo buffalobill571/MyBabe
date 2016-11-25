@@ -1,0 +1,76 @@
+NUMBER_OF_PROCESSORS : 4
+SYSTEMDRIVE : C:
+CONTENT_LENGTH :
+TMP : C:\Users\BUFFAL~1\AppData\Local\Temp
+DJANGO_SETTINGS_MODULE : MyBabe.settings
+HTTP_UPGRADE_INSECURE_REQUESTS : 1
+GATEWAY_INTERFACE : CGI/1.1
+REQUEST_METHOD : GET
+PROGRAMFILES(X86) : C:\Program Files (x86)
+wsgi.url_scheme : http
+HTTP_CONNECTION : keep-alive
+HOMEPATH : \Users\buffalobill571
+HTTP_ACCEPT : text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+_OLD_VIRTUAL_PROMPT : $P$G
+wsgi.errors : <_io.TextIOWrapper name='<stderr>' mode='w' encoding='cp850'>
+COMMONPROGRAMFILES(X86) : C:\Program Files (x86)\Common Files
+SERVER_SOFTWARE : WSGIServer/0.2
+JAVA_HOME : C:\Program Files\Java\jdk1.8.0_102
+wsgi.input : <_io.BufferedReader name=1056>
+PROCESSOR_IDENTIFIER : Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+SCRIPT_NAME :
+HTTP_ACCEPT_ENCODING : gzip, deflate, sdch
+COMPUTERNAME : DESKTOP-A71C3OG
+GOPATH : C:\gowork
+CONTENT_TYPE : text/plain
+REMOTE_HOST :
+USERNAME : buffalobill571
+ALLUSERSPROFILE : C:\ProgramData
+PROCESSOR_LEVEL : 6
+HTTP_COOKIE : sessionid=ys3084h1adq1z31mg8os5cacebsalz0m; csrftoken=92Xuug4ZQEGW5vkXm5ovdP5qUtgvxVhq
+PSMODULEPATH : C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+wsgi.file_wrapper : <class 'wsgiref.util.FileWrapper'>
+HTTP_ACCEPT_LANGUAGE : ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+LOGONSERVER : \\DESKTOP-A71C3OG
+SERVER_PROTOCOL : HTTP/1.1
+PROGRAMW6432 : C:\Program Files
+VIRTUAL_ENV : C:\Users\buffalobill571\PycharmProjects\MyBabe\venv
+PATHEXT : .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY
+PATH_INFO : /just
+PATH : C:\Users\buffalobill571\PycharmProjects\MyBabe\venv\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\Python34\Lib\site-packages\PyQt5;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_102\bin;C:\Program Files\Anaconda3;C:\Program Files\Anaconda3\Scripts;C:\Program Files\Anaconda3\Library\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Git\cmd;C:\Go\bin;C:\Program Files\nodejs\;C:\Users\buffalobill571\AppData\Local\atom\bin;C:\Python34;C:\Python34\Scripts;C:\Users\buffalobill571\AppData\Local\Microsoft\WindowsApps;C:\Users\buffalobill571\AppData\Roaming\npm
+wsgi.multithread : True
+SYSTEMROOT : C:\WINDOWS
+GOROOT : C:\Go\
+CLASSPATH : .
+COMMONPROGRAMW6432 : C:\Program Files\Common Files
+PROGRAMDATA : C:\ProgramData
+USERDOMAIN_ROAMINGPROFILE : DESKTOP-A71C3OG
+SERVER_PORT : 8000
+HOMEDRIVE : C:
+QUERY_STRING :
+HTTP_HOST : 127.0.0.1:8000
+LOCALAPPDATA : C:\Users\buffalobill571\AppData\Local
+COMSPEC : C:\WINDOWS\system32\cmd.exe
+SESSIONNAME : Console
+PROCESSOR_ARCHITECTURE : AMD64
+PROGRAMFILES : C:\Program Files
+WINDIR : C:\WINDOWS
+COMMONPROGRAMFILES : C:\Program Files\Common Files
+wsgi.version : (1, 0)
+PROMPT : (venv) $P$G
+_OLD_VIRTUAL_PATH : C:\ProgramData\Oracle\Java\javapath;C:\Python34\Lib\site-packages\PyQt5;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_102\bin;C:\Program Files\Anaconda3;C:\Program Files\Anaconda3\Scripts;C:\Program Files\Anaconda3\Library\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Git\cmd;C:\Go\bin;C:\Program Files\nodejs\;C:\Users\buffalobill571\AppData\Local\atom\bin;C:\Python34;C:\Python34\Scripts;C:\Users\buffalobill571\AppData\Local\Microsoft\WindowsApps;C:\Users\buffalobill571\AppData\Roaming\npm
+USERPROFILE : C:\Users\buffalobill571
+PROCESSOR_REVISION : 2a07
+OS : Windows_NT
+TEMP : C:\Users\BUFFAL~1\AppData\Local\Temp
+HTTP_USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+PUBLIC : C:\Users\Public
+APPDATA : C:\Users\buffalobill571\AppData\Roaming
+wsgi.run_once : False
+HTTP_CACHE_CONTROL : max-age=0
+CSRF_COOKIE : 92Xuug4ZQEGW5vkXm5ovdP5qUtgvxVhq
+wsgi.multiprocess : False
+RUN_MAIN : true
+SERVER_NAME : DESKTOP-A71C3OG
+USERDOMAIN : DESKTOP-A71C3OG
+REMOTE_ADDR : 127.0.0.1

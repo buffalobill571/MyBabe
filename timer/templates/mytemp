@@ -1,0 +1,3 @@
+{% include 'header' %}
+It's after {{ hours }} hours {{ date }}
+{% include 'footer' %}

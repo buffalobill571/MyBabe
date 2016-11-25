@@ -1,0 +1,14 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>SSE</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="{% static "style.css" %}" media="screen" title="no title">
+  </head>
+  <body>
+    <img id="smth" src="{% static '1.jpg' %}"/>
+  </body>
+  <script type="text/javascript" src="{% static "script.js" %}"></script>
+</html>

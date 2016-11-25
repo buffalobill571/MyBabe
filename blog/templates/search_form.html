@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Search Books</title>
+  </head>
+  <body>
+    <form name="myForm" action="" method="get" onsubmit="return validateForm()">
+      <input type="text" name="q">
+      <input type="submit" value="Search">
+    </form>
+    <span id="myID"></span>
+    {% if error %}
+      <p style="color:red">
+        Please submit a search term 20 characters or shorter
+      </p>
+    {% endif %}
+  </body>
+  <script type="text/javascript">
+    function validateForm() {
+      var x = document.forms["myForm"]["q"].value;
+      if (x == null || x == "") {
+        document.getElementById("myID").innerHTML = "Заполни";
+        document.getElementById("myID").style.color = "red";
+        return false;
+      }
+    }
+  </script>
+</html>
